@@ -13,6 +13,7 @@ public class C2E15DistanceOfTwoPoints {
 		Double a = (x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1);
 		Double distance = Math.pow(a, 0.5);
 		System.out.print("The distance between the two points is " + distance);
+		input.close();
 		
 
 	}

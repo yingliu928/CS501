@@ -23,6 +23,8 @@ public class C2E19AreaOfTrangle {
 		Double temp = s * (s - side1) * (s - side2) * (s - side3);
 		Double area = Math.pow(temp, 0.5);
 		System.out.println("The area of the trangle is " + area);
+		input.close();
+		
 
 	}
 
