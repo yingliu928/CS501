@@ -9,6 +9,7 @@ public class C7E9E10E20ReviseSelectionSort {
 		System.out.print("Enter ten numbers:");
 		Scanner in = new Scanner(System.in);
 		in.useLocale(Locale.US);
+		
 		in.useDelimiter("(\\s|,)+");
 		for(int i = 0 ; i < array.length; i++){
 			array[i] = in.nextDouble();

@@ -14,7 +14,6 @@ public class C1E13SolveLinearEquation {
 		double y = ( a * f - e * c ) / ( a * d - b * c );
 		System.out.format("x equals : %.2f\n", x);
 		System.out.format("y equals : %.2f", y);
-		//add new commit
 	}
 
 }
