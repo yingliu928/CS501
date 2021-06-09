@@ -10,7 +10,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 public class C12E13CountInFile {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		//File file = new File("C:\\Users\\Eva\\eclipse-workspace\\CS501\\src\\a.txt");
+		
 		//File file = new File(args[0]);
 		//--------JFileChooser with open dialog version----
 		boolean flag = true;
